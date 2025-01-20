@@ -1,6 +1,7 @@
 from django.contrib import admin
-from django.urls import path
 from .models import Post
+from django.urls import path
+
 
 # Register your models here.
 
